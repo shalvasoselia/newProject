@@ -1,1 +1,5 @@
 # newProject
+
+# HTML
+# CSS
+# JS
